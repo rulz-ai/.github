@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Reborn-Rulz
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rulz-ai&title_color=9925be&text_color=2596be&bg_color=041014)
+# Rulz-AI
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebornrulz&title_color=9925be&text_color=2596be&bg_color=041014)
 
 > #### Feel free to open a PR anywhere
